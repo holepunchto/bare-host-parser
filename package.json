@@ -1,6 +1,6 @@
 {
   "name": "bare-host-parser",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse and format Bare host identifiers",
   "exports": {
     "./package": "./package.json",
